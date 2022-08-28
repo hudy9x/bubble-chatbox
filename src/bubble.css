@@ -1,0 +1,17 @@
+.bubble {
+  width: 100%;
+}
+
+.bubble-content {
+  max-width: 600px;
+  display: inline-block;
+  padding: 12px 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.bubble-content {
+  margin-right: 25%;
+  background-color: #eee;
+  position: relative;
+}
